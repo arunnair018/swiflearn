@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Data from "../data/videos.json";
 import "../css/videos.css";
 
 class Videos extends Component {
