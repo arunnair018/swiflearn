@@ -1,0 +1,52 @@
+/* NAVBAR CSS */
+.nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+    padding-right: 10%;
+    box-shadow: 5px 1px 10px #888888;
+}
+
+.nav-li {
+    float: right;
+}
+
+.nav-li a {
+    display: block;
+    color: lightslategrey;
+    text-align: center;
+    padding: 24px 26px;
+    text-decoration: none;
+}
+
+.login {
+    color: white;
+    background-image: linear-gradient(to right, #ff9261, #fd7b60, #f86362, #f04968, #e52d71);
+    padding: 6px 50px;
+    border-radius: 25px;
+}
+
+.upcoming p {
+    font-size: x-small;
+    color: gray;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+.upcoming a {
+    padding: 12px 26px;
+}
+
+.icon1 {
+    color: orangered;
+}
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: orangered;
+    border-radius: 50%;
+    display: inline-block;
+}

@@ -1,0 +1,55 @@
+.vid {
+  margin: 1%;
+}
+
+.carousel .carousel-item {
+  height: 250px;
+  width: 350px;
+}
+
+.carousel-img {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 300px;
+  height: 250px;
+}
+.number {
+  position: relative;
+  bottom: 20%;
+  left: 50%;
+  color: black;
+}
+.classnumber {
+  position: relative;
+  bottom: 20%;
+  left: 20%;
+  color: black;
+}
+
+.carousel-button-next {
+  float: right;
+  margin: 50px;
+  position: relative;
+  top: 40%;
+}
+
+.carousel-button-prev {
+  float: left;
+  margin: 50px;
+  position: relative;
+  top: 40%;
+}
+
+.small {
+  font-size: small;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: gray;
+  margin-left: 8%;
+}
